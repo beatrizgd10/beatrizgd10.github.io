@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+h1 {
+    color:darksalmon;
+    font-family:'Times New Roman', Times, serif;
+    background-color:white;
+    border: 7px dotted chartreuse;
+    padding-left: 180px; 
+
+}
+img {
+    border: 5px solid white;
+    width: 50%;
+    height: 50%;
+    margin-left: 150px;
+    float: right;
+}
+h2 { 
+    font-family: cursive;
+}
+#highlight {
+    color: green;
+    border: 10px solid blue;
+}
+.top {
+    background-color: lightblue;
+    float: right;
+}
+.bottom {
+    background-color: lightgray;
+    float: right;
+}
